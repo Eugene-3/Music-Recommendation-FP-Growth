@@ -31,6 +31,14 @@ Streaming platforms require personalized recommendations to improve user engagem
 
 ## Visualizations
 
+### Top 10 Count of user's nationalities
+
+![Count of user's nationalities](images/Top10countries.png)
+
+### Top 10 Most-Streamed Artists in the U.S.
+
+![Count of user's nationalities](images/UnitedStates.png)
+
 ### Association Rules
 
 ![Association Rules](images/Association_Rules.png)
