@@ -33,11 +33,11 @@ Streaming platforms require personalized recommendations to improve user engagem
 
 ### Association Rules
 
-![Association Rules](images/association_rules.png)
+![Association Rules](images/Association_Rules.png)
 
 ### Recommendation Example
 
-![Recommendation Example](images/recommendation_example.png)
+![Recommendation Example](images/Recommendation_Example.png)
 
 ## Future Improvements
 
