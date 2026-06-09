@@ -37,7 +37,7 @@ Streaming platforms require personalized recommendations to improve user engagem
 
 ### Top 10 Most-Streamed Artists in the U.S.
 
-![Top 10 Most-Streamed Artists in the U.S.](images/UnitedStates.png)
+![Top 10 Most-Streamed Artists in the U.S.](images/UnitedStates10.png)
 
 ### Association Rules
 
