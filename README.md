@@ -39,6 +39,10 @@ Streaming platforms require personalized recommendations to improve user engagem
 
 ![Top 10 Most-Streamed Artists in the U.S.](images/UnitedStates10.png)
 
+### Frequent Itemsets
+
+![Frequent Itemsets](images/Frequent_Itemsets.png)
+
 ### Association Rules
 
 ![Association Rules](images/Association_Rules.png)
